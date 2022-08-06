@@ -1,4 +1,4 @@
-Hello Bobby Welcome Praveen
+Welcome Praveen
 
 HelloWorld Servlet example with corresponding Dockerfile
 
